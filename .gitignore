@@ -35,3 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+
+# Permitir wrapper completo
+!gradlew
+!gradlew.bat
+!gradle/wrapper/**
